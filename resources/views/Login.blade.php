@@ -1,6 +1,6 @@
 @extends('master')
 @section('content')
-<div class="container" >
+<div class="container custom-login" >
    <div class="row col-sm-offset-4" >
     <div class="col-sm-4" style="margin: auto">  <form>
         <div class="form-group">
